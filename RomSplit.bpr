@@ -47,7 +47,7 @@
 IncludeVerInfo=1
 AutoIncBuild=0
 MajorVer=1
-MinorVer=0
+MinorVer=1
 Release=0
 Build=0
 Debug=0
@@ -61,13 +61,13 @@ CodePage=1252
 [Version Info Keys]
 CompanyName=
 FileDescription=Saturn Boot ROM Merge/Split Utility
-FileVersion=1.0.0.0
+FileVersion=1.1.0.0
 InternalName=
 LegalCopyright=
 LegalTrademarks=
 OriginalFilename=RomSplit.exe
 ProductName=
-ProductVersion=1.0.0.0
+ProductVersion=1.1.0.0
 Comments=
 
 [Debugging]

@@ -45,7 +45,11 @@ public:		// User declarations
     __fastcall TForm1(TComponent* Owner);
 
     LONG m_lInFileCnt;
-    bool m_bMergeMode;
+
+#define MODE_SPLIT 0
+#define MODE_MERGE 1
+#define MODE_SWAP  2
+    LONG m_lMode;
 
 BEGIN_MESSAGE_MAP
     VCL_MESSAGE_HANDLER(WM_DROPFILES, TWMDropFiles, WmDropFiles)

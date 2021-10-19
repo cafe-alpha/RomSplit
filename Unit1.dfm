@@ -20,9 +20,9 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 112
     Top = 8
-    Width = 257
+    Width = 289
     Height = 12
-    Caption = '--- Sega Saturn ROM files split/merge utility ---'
+    Caption = '--- Sega Saturn ROM files split/merge/swap utility ---'
   end
   object Label2: TLabel
     Left = 16
