@@ -15,6 +15,10 @@ Similarly, this utility makes possible to split a ROM file into two halves so it
 * Drag and drop file(s) to convert
 * Click on the Merge/Split button
 
+### Extra
+
+For ROM files not featuring Saturn cartridge ROM header, or whose size being different from 256KB, rom_merge_cli allows to merge two arbitrary files.
+
 ### Supported Platform
 
 Any Windows prior to Windows 98 should be able to run this utility.
@@ -24,6 +28,9 @@ Any Windows prior to Windows 98 should be able to run this utility.
 [cafe-alpha](https://ppcenter.webou.net/devblog/)
 
 ## Version History
+
+* 1.1 - 2022 June 25
+    * Added rom_merge_cli utility
 
 * 1.0 - 2021 September 12
     * Initial Release
