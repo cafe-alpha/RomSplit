@@ -29,10 +29,10 @@ Any Windows prior to Windows 98 should be able to run this utility.
 
 ## Version History
 
-* 1.1 - 2022 June 25
+* 1.2 - 2022 June 25
     * Added rom_merge_cli utility
 
-* 1.0 - 2021 September 12
+* 1.0, 1.1 - 2021 September 12
     * Initial Release
 
 ## License
